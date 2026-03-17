@@ -1,7 +1,7 @@
 # JobTailor - AI Resume Insights 🚀
 
 ## 🔗 Live Link
-[**View Live Application**](https://jobtailor-hc5aq0a0l-rupesh-patils-projects-961ac79a.vercel.app/)
+[**View Live Application**](https://jobtailor-ai-nu.vercel.app/)
 
 ---
 
